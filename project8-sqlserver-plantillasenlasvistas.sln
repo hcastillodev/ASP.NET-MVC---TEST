@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project8-sqlserver-plantillasenlasvistas", "project8-sqlserver-plantillasenlasvistas\project8-sqlserver-plantillasenlasvistas.csproj", "{5F15E78E-78AD-4FBF-A5D9-27553D8CD594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F15E78E-78AD-4FBF-A5D9-27553D8CD594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F15E78E-78AD-4FBF-A5D9-27553D8CD594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F15E78E-78AD-4FBF-A5D9-27553D8CD594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F15E78E-78AD-4FBF-A5D9-27553D8CD594}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {426DE3F6-1C3A-4372-8ED4-973BBC9BE5CD}
+	EndGlobalSection
+EndGlobal
